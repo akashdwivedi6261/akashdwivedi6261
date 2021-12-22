@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Akash
-###Currently I'm doing full stack web-development course from masai school
+### Currently I'm doing full stack web-development course from masai school
 
 <!--
 **akashdwivedi6261/akashdwivedi6261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
