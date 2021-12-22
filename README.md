@@ -20,3 +20,4 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/akash-dwivedi-2633701b2">LinkedIn</a>
+<p>mail id: akashrewa2021@gmail.com</p>
