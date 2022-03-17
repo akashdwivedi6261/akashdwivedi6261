@@ -1,5 +1,5 @@
 # Hi there :wave: I'm Akash
-### Currently I'm doing full stack web-development course from masai school
+### Currently I'm doing full stack web-development course from masai school. After having a sound understanding of Computer languages like C/C++/C#/JS/CSS/HTML/React, Data Structures and Algorithms, I decided to get hands-on experience in developing and deploying some real time projects, So as a career field I choose to be MERN|Full Stack Developer and Currently I am enjoying the same journey of developing and deploying out of what I do possess.
 <p align="center">
     <a href="https://github.com/akashdwivedi6261/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdwivedi6261&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
