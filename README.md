@@ -12,7 +12,7 @@
 
 <br/>
  <p align="center">
-    <a href="https://github.com/akashdwivedi6261/github-readme-stats"><img alt="swetha v's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashdwivedi6261&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/akashdwivedi6261/github-readme-stats"><img alt="swetha v's Github Stats" src="https://github-readme-stats.vercel.app/api?  username=akashdwivedi6261&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdwivedi6261&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
