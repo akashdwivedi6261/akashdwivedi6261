@@ -30,7 +30,7 @@
 
 # ☻ My Top Projects:
 <a href="https://github.com/akashdwivedi6261/Ikea-Clone" target="blank">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=IKEA CLONE&color=000000&logo=Google&logoColor=FFFFFF&label=" alt="IKEA-Clone" />
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=IKEA CLONE&color=000000&logo=ikea&logoColor=FFFFFF&label=" alt="IKEA-Clone" />
 </a>
 <a href="https://github.com/akashdwivedi6261/timesOfIndiaClone" target="blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=times of india clone&color=1BB91F&logo=Geekbuying&logoColor=FFFFFF&label=" alt="times of india clone" />
