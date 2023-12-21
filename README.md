@@ -32,11 +32,8 @@
 <a href="https://github.com/akashdwivedi6261/Ikea-Clone" target="blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=IKEA CLONE&color=000000&logo=Google&logoColor=FFFFFF&label=" alt="IKEA-Clone" />
 </a>
-<a href="https://github.com/Randhir200/GeekBuying-CW2" target="blank">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Geekbuying Clone&color=1BB91F&logo=Geekbuying&logoColor=FFFFFF&label=" alt="Geekbuying-Clone" />
-</a>
-<a href="https://github.com/ShirsoBhattacharyya/Bath-BodyWorks-CW1" target="blank">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bath and Body Works Clone&color=FD3A5C&logo=BBW&logoColor=FFFFFF&label=" alt="BBW-Clone" />
+<a href="https://github.com/akashdwivedi6261/timesOfIndiaClone" target="blank">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=times of india clone&color=1BB91F&logo=Geekbuying&logoColor=FFFFFF&label=" alt="times of india clone" />
 </a>
 
 # 📊 GitHub Stats:
