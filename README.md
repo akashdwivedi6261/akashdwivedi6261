@@ -19,7 +19,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-dwivedi-2633701b2) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://shirsobhattacharyya.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://akash-dwivedi-portfolio.netlify.app/)
 
 ## ☻ GitHub Profile Information:
 ![Github Profile Views](https://komarev.com/ghpvc/?username=akashdwivedi6261&label=Profile%20views&color=0e75b6&style=flat)
